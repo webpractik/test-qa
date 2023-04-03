@@ -23,8 +23,8 @@
 
 ## Задачи:
 
-1. [Из прикреплённой ручки ](https://raw.githubusercontent.com/webpractik/test-qa/master/items.json?token=GHSAT0AAAAAAB5H25JEBBQDWJQLQ7V2HOHMZBK3RBA), необходимо: получить и перебрать Json массив и вывести на экран суммарную стоимость всех товаров.
-2. [Из той же ручки ](https://raw.githubusercontent.com/webpractik/test-qa/master/items.json?token=GHSAT0AAAAAAB5H25JEBBQDWJQLQ7V2HOHMZBK3RBA) необходимо: получить и перебрать Json массив выведя на экран только те товары,цвет которых синий.
+1. [Из прикреплённой ручки ](https://raw.githubusercontent.com/webpractik/test-qa/master/items.json?token=GHSAT0AAAAAAB5H25JFY7UGJXOE7DH3F2NKZBK5CFA), необходимо: получить и перебрать Json массив и вывести на экран суммарную стоимость всех товаров.
+2. [Из той же ручки ](https://raw.githubusercontent.com/webpractik/test-qa/master/items.json?token=GHSAT0AAAAAAB5H25JFY7UGJXOE7DH3F2NKZBK5CFA) необходимо: получить и перебрать Json массив выведя на экран только те товары,цвет которых синий.
 
 ## Примечание:
  - Допускается использование любых библиотек
