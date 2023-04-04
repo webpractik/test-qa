@@ -17,7 +17,7 @@
 #### Задания необходимо выполнять на одной из следующих платформ:
 
 - [CodeSandbox](https://codesandbox.io) для JS/TS
-- [replit.com](replit.com) Для всех остальных 
+- [replit.com](https://replit.com/~) Для всех остальных 
 
 -------
 
